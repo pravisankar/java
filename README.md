@@ -20,6 +20,7 @@ To install the Java client library to your local Maven repository, simply execut
 git clone --recursive https://github.com/kubernetes-client/java
 cd java
 mvn install
+//Testing
 ```
 
 Refer to the [official documentation](https://maven.apache.org/plugins/maven-deploy-plugin/usage.html) for more information.
